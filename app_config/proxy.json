@@ -1,0 +1,5 @@
+{
+  "UseProxy":false,
+  "ProxyUrl":"127.0.0.1",
+  "ProxyPort":8080
+}

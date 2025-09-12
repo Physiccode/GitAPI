@@ -1,0 +1,6 @@
+{
+  "LogFunctionUsageToFile":true,
+  "LogActivityToFile":true,
+  "LogFunctionUsageToWebhook":false,
+  "LogActivityUsageToWebhook":false
+}

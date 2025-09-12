@@ -1,0 +1,6 @@
+{
+  "UseApiKey":true,
+  "UseApiKeyFromEnvironmentVariable":true,
+  "UseApiKeyFromFile":false,
+  "ApiKeyFilePath":null
+}
